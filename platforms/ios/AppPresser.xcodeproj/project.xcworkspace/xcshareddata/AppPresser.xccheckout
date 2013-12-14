@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F946185B-B54A-4D00-88DF-74A51638214A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AppPresser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BAD76D83-FA86-46BD-B7BB-1CC7D7367427</key>
+		<string>https://webdevstudios.git.beanstalkapp.com/app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>apppresser-pg/platforms/ios/AppPresser.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BAD76D83-FA86-46BD-B7BB-1CC7D7367427</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://webdevstudios.git.beanstalkapp.com/app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BAD76D83-FA86-46BD-B7BB-1CC7D7367427</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAD76D83-FA86-46BD-B7BB-1CC7D7367427</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wp-content</string>
+		</dict>
+	</array>
+</dict>
+</plist>
